@@ -1,4 +1,4 @@
-const lists = require('./lists.json');
+const lists = require('./day_1_historian_hysteria.json');
 let list_a = lists["list_a"].sort()
 let list_b = lists["list_b"].sort()
 
